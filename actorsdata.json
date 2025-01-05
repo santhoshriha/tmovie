@@ -1,0 +1,35 @@
+{
+  "actorCategory": [
+    {
+      "name": "Rajinikanth",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNqkQRwwOLhnVsvHZDp4xOu6pCm7VAXO1gkbUIDfa-h2lTy7kwTYGWzFOlHKdOt7oqSic&usqp=CAU"
+    },
+    {
+      "name": "Kamal Haasan",
+      "image": "https://example.com/kamal.jpg"
+    }
+  ],
+  "movies": [
+    {
+      "title": "Vettaiyan",
+      "year": 2024,
+      "thumb": "https://img.youtube.com/vi/ySXPprlS7bU/0.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID1",
+      "actor": "Rajinikanth"
+    },
+    {
+      "title": "Lal Salaam",
+      "year": 2024,
+      "thumb": "https://img.youtube.com/vi/ySXPprlS7bU/0.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID2",
+      "actor": "Rajinikanth"
+    },
+    {
+      "title": "Jailer",
+      "year": 2023,
+      "thumb": "https://img.youtube.com/vi/ySXPprlS7bU/0.jpg",
+      "url": "https://www.youtube.com/watch?v=VIDEO_ID3",
+      "actor": "Kamal Haasan"
+    }
+  ]
+}
