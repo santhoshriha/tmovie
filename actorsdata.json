@@ -11,23 +11,23 @@
   ],
   "movies": [
     {
-      "title": "Vettaiyan",
-      "year": 2024,
+      "title": "Apoorva Raagangal",
+      "year": 1975,
       "thumb": "https://img.youtube.com/vi/_j0r4ZqxLfs/0.jpg",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID1",
+      "url": "https://www.youtube.com/watch?v=_j0r4ZqxLfs",
       "actor": "Rajinikanth"
     },
     {
-      "title": "Lal Salaam",
-      "year": 2024,
-       "thumb": "https://img.youtube.com/vi/_j0r4ZqxLfs/0.jpg",
-      "url": "https://www.youtube.com/watch?v=VIDEO_ID2",
+      "title": "Katha Sangama",
+      "year": 1976,
+      "thumb": "https://img.youtube.com/vi/H_7SRrPjEBQ/0.jpg",
+      "url": "https://www.youtube.com/watch?v=H_7SRrPjEBQ",
       "actor": "Rajinikanth"
     },
     {
       "title": "Jailer",
       "year": 2023,
-       "thumb": "https://img.youtube.com/vi/_j0r4ZqxLfs/0.jpg",
+      "thumb": "https://img.youtube.com/vi/ySXPprlS7bU/0.jpg",
       "url": "https://www.youtube.com/watch?v=VIDEO_ID3",
       "actor": "Kamal Haasan"
     }
